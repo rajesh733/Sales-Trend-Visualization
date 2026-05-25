@@ -1,0 +1,101 @@
+Order_ID,Date,Product,Category,Sales,Profit,Region
+ORD001,2025-08-21,Mouse,Furniture,323.07,59.8,East
+ORD002,2025-01-07,Keyboard,Technology,151.0,15.98,East
+ORD003,2025-08-15,Printer,Technology,132.22,30.77,North
+ORD004,2025-03-14,Printer,Furniture,130.31,32.07,East
+ORD005,2025-01-03,Mouse,Office Supplies,4396.26,1063.33,South
+ORD006,2025-05-28,Laptop,Technology,4505.74,273.61,East
+ORD007,2025-03-19,Printer,Technology,3630.41,792.77,South
+ORD008,2025-12-05,Chair,Technology,659.29,47.86,South
+ORD009,2025-06-26,Laptop,Furniture,959.09,182.77,East
+ORD010,2025-10-06,Laptop,Furniture,2580.98,568.43,South
+ORD011,2025-05-21,Keyboard,Office Supplies,2217.27,234.83,East
+ORD012,2025-09-22,Printer,Technology,2135.21,138.85,North
+ORD013,2025-03-22,Desk,Office Supplies,2268.42,629.58,North
+ORD014,2025-03-22,Keyboard,Office Supplies,3544.29,893.16,West
+ORD015,2025-12-21,Chair,Furniture,840.6,129.3,East
+ORD016,2025-09-29,Monitor,Technology,4370.85,1096.62,West
+ORD017,2025-07-10,Monitor,Technology,1303.21,231.42,South
+ORD018,2025-08-19,Monitor,Office Supplies,1611.5,413.62,East
+ORD019,2025-05-04,Mouse,Technology,972.46,240.35,West
+ORD020,2025-07-11,Mouse,Furniture,4138.4,792.66,East
+ORD021,2025-08-15,Printer,Office Supplies,4110.51,638.85,West
+ORD022,2025-06-04,Printer,Technology,3777.36,1028.26,North
+ORD023,2025-07-06,Chair,Office Supplies,1079.47,110.56,South
+ORD024,2025-09-14,Monitor,Furniture,3346.94,477.64,North
+ORD025,2025-09-04,Keyboard,Office Supplies,2644.7,262.47,North
+ORD026,2025-08-01,Printer,Furniture,1198.01,295.5,West
+ORD027,2025-10-17,Laptop,Furniture,2280.94,218.52,West
+ORD028,2025-11-19,Keyboard,Technology,2729.55,511.79,North
+ORD029,2025-05-14,Monitor,Office Supplies,2766.29,223.8,West
+ORD030,2025-07-27,Chair,Technology,293.25,84.29,North
+ORD031,2025-05-14,Printer,Furniture,3965.54,1106.82,West
+ORD032,2025-02-15,Monitor,Furniture,3547.38,1044.66,West
+ORD033,2025-04-10,Desk,Technology,3181.55,760.15,South
+ORD034,2025-12-02,Monitor,Furniture,4377.02,1177.08,South
+ORD035,2025-06-12,Chair,Furniture,155.51,15.36,North
+ORD036,2025-06-11,Monitor,Technology,1551.4,393.52,North
+ORD037,2025-08-09,Chair,Furniture,1593.74,356.4,East
+ORD038,2025-01-05,Laptop,Office Supplies,2438.14,597.64,West
+ORD039,2025-04-26,Chair,Office Supplies,3291.71,738.62,South
+ORD040,2025-09-01,Laptop,Office Supplies,2450.47,575.84,South
+ORD041,2025-10-25,Laptop,Office Supplies,2635.22,277.85,East
+ORD042,2025-06-09,Laptop,Technology,3651.29,706.88,West
+ORD043,2025-12-18,Desk,Furniture,663.43,195.23,North
+ORD044,2025-07-01,Keyboard,Furniture,3386.26,401.65,West
+ORD045,2025-07-21,Desk,Office Supplies,1734.17,366.97,East
+ORD046,2025-11-12,Chair,Technology,4609.8,572.06,North
+ORD047,2025-05-17,Keyboard,Office Supplies,4914.83,263.84,East
+ORD048,2025-07-22,Keyboard,Furniture,2047.83,609.41,North
+ORD049,2025-06-04,Desk,Office Supplies,3386.5,581.04,North
+ORD050,2025-05-30,Desk,Office Supplies,2274.32,498.73,West
+ORD051,2025-10-07,Printer,Furniture,3884.21,1100.5,East
+ORD052,2025-08-30,Laptop,Furniture,3657.21,397.28,East
+ORD053,2025-09-20,Mouse,Office Supplies,2650.7,754.35,East
+ORD054,2025-12-10,Laptop,Furniture,2787.4,248.91,East
+ORD055,2025-01-27,Printer,Office Supplies,3966.32,551.47,South
+ORD056,2025-03-24,Desk,Office Supplies,1181.19,266.42,North
+ORD057,2025-05-17,Laptop,Office Supplies,4885.46,525.68,East
+ORD058,2025-01-10,Monitor,Office Supplies,2083.84,262.02,West
+ORD059,2025-07-29,Keyboard,Office Supplies,3595.86,907.75,East
+ORD060,2025-11-02,Keyboard,Technology,498.29,96.33,West
+ORD061,2025-07-19,Printer,Office Supplies,1951.29,582.02,East
+ORD062,2025-10-02,Keyboard,Office Supplies,636.64,57.29,North
+ORD063,2025-05-09,Desk,Technology,4915.44,1173.84,South
+ORD064,2025-09-30,Desk,Furniture,1331.36,238.52,North
+ORD065,2025-03-10,Mouse,Furniture,4996.76,518.47,South
+ORD066,2025-11-18,Desk,Office Supplies,2292.73,229.49,West
+ORD067,2025-03-19,Printer,Furniture,673.01,180.92,West
+ORD068,2025-05-15,Desk,Office Supplies,3279.8,640.79,East
+ORD069,2025-01-23,Desk,Furniture,4403.97,1223.93,South
+ORD070,2025-06-23,Monitor,Office Supplies,2811.76,808.2,West
+ORD071,2025-01-23,Desk,Technology,4831.3,1057.39,South
+ORD072,2025-07-17,Laptop,Furniture,593.26,78.13,North
+ORD073,2025-11-17,Printer,Office Supplies,688.31,53.16,East
+ORD074,2025-01-25,Mouse,Technology,2643.37,555.1,North
+ORD075,2025-08-18,Laptop,Technology,1692.4,316.63,South
+ORD076,2025-02-02,Keyboard,Office Supplies,3279.46,729.65,West
+ORD077,2025-11-10,Chair,Technology,1903.9,538.18,North
+ORD078,2025-06-09,Printer,Technology,145.59,23.64,South
+ORD079,2025-03-31,Laptop,Office Supplies,4740.61,584.27,West
+ORD080,2025-07-08,Keyboard,Furniture,1181.98,271.82,West
+ORD081,2025-10-03,Printer,Technology,4710.99,330.36,North
+ORD082,2025-11-28,Keyboard,Technology,2701.32,789.35,West
+ORD083,2025-10-01,Printer,Furniture,4941.39,661.73,East
+ORD084,2025-09-04,Chair,Office Supplies,4329.74,417.58,West
+ORD085,2025-12-12,Mouse,Technology,1663.9,156.94,West
+ORD086,2025-12-21,Mouse,Technology,782.74,131.1,South
+ORD087,2025-03-15,Monitor,Technology,2745.63,619.56,South
+ORD088,2025-04-02,Printer,Technology,226.95,51.55,West
+ORD089,2025-01-06,Chair,Furniture,4815.55,981.21,South
+ORD090,2025-12-05,Mouse,Office Supplies,1972.43,104.94,East
+ORD091,2025-10-13,Chair,Technology,342.88,90.59,North
+ORD092,2025-03-07,Monitor,Office Supplies,4776.91,1337.46,West
+ORD093,2025-10-01,Laptop,Office Supplies,598.93,118.43,East
+ORD094,2025-06-15,Mouse,Technology,2178.95,528.45,East
+ORD095,2025-09-05,Printer,Office Supplies,2445.59,222.1,West
+ORD096,2025-03-16,Mouse,Office Supplies,3788.18,300.71,South
+ORD097,2025-03-14,Laptop,Furniture,2048.72,248.69,East
+ORD098,2025-11-23,Printer,Office Supplies,2684.34,245.61,East
+ORD099,2025-03-17,Chair,Technology,803.88,192.44,West
+ORD100,2025-05-28,Keyboard,Technology,2683.23,403.46,South
